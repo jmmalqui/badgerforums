@@ -1,0 +1,17 @@
+.latest-recipe-container{
+    flex-grow: 1;
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+
+.latest-title-upper{
+    color: black;
+    background-color: #BACDDB;
+    font-weight: bolder;
+    margin-bottom: 0;
+    padding: 5px;
+}

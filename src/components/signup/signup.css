@@ -1,0 +1,18 @@
+.signup-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.signup-title{
+    font-size: 40px;
+    color: black;
+}
+
+.signup-image{
+    width: 100px;
+    height: auto;
+    opacity: 0.3;
+}

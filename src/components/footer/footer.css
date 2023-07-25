@@ -1,0 +1,42 @@
+.footer-container{
+    margin-top: 30px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.footer-logo-container{
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    width: 50%;
+    margin: 0 auto;
+    justify-content: center;
+}
+.footer-logo-image{
+    width: 35px;
+    height: auto;
+}
+.footer-text-logo{
+    margin: 10px;
+    font-size: 20px;
+    align-items: center;
+
+}
+.footer-text{
+    text-align: center;
+    gap: 20px;
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+
+}
+
+.info{
+    font-size: 20px;
+    text-decoration: none;
+    color: #420516;
+}

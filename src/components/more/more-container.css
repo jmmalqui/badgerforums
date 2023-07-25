@@ -1,0 +1,22 @@
+.more-master{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+
+.more-title{
+    color: black;
+    padding: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.github-logo-container{
+
+    text-align: center;
+}
+.github-logo{
+    color: black;
+    height: auto;
+    width: 100px;
+}

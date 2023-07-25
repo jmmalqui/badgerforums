@@ -1,0 +1,63 @@
+
+.entername-container{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.entername-title{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+.entername-text{
+    font-size: 20px;
+    color: black;
+}
+.entername-image{
+    width: 100px;
+    height: auto;
+    text-align: center;
+    opacity: 0.3;
+}
+.entername-image-active{
+    width: 100px;
+    height: auto;
+    text-align: center;
+}
+.entername-image-clickable{
+    width: 100px;
+    height: auto;
+    text-align: center;
+    opacity: 0.6;
+    cursor:pointer;
+}
+.namenext-button{
+    text-decoration: none;
+    background-color: coral;
+    border-radius: 10px;
+    font-size: 15px;
+    width: fit-content;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+.namenext-button:hover{
+    text-decoration: none;
+    background-color:black;
+    border-radius: 10px;
+    font-size: 15px;
+    width: fit-content;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+.badgerui-container{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}

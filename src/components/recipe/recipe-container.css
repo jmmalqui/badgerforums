@@ -1,0 +1,40 @@
+.recipe-container{
+    flex-grow: 1;
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.landing-title{
+    color: black;
+    background-color: rgb(186, 205, 219, 0.1);
+    font-weight: bolder;
+    margin-bottom: 0;
+    padding: 5px;
+    transition: 0.5s;
+
+}
+
+
+@media screen and (max-width: 600px) {
+    .recipe-container{
+        /* background-color: purple; */
+        flex-grow: 1;
+        margin: 40px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .landing-title{
+        color: black;
+        background-color: rgb(186, 205, 219, 0.1);
+        font-weight: bolder;
+        margin-bottom: 0;
+        margin-top: 0;
+        padding: 5px;
+        
+    
+    }
+}
